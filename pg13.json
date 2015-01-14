@@ -1,0 +1,68 @@
+{
+  "users":  [
+     {
+      "id": 10027342,
+      "id_str": "10027342",
+      "name": "Cityzencar",
+      "screen_name": "CityzenCar",
+      "location": "Fabriqué à Montreuil",
+      "profile_location": null,
+      "description": "L'utopie automobile 2.0, c'est le partage. CityzenCar a rejoint @BuzzcarFR en juin 2013 ♥ #carsharing #collcons",
+      "url": "http://t.co/UcMEjPMkp7",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/UcMEjPMkp7",
+              "expanded_url": "http://www.buzzcar.com",
+              "display_url": "buzzcar.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 2094,
+      "friends_count": 1017,
+      "listed_count": 148,
+      "created_at": "Wed Nov 07 09:41:32 +0000 2007",
+      "favourites_count": 61,
+      "utc_offset": 3600,
+      "time_zone": "Paris",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4549,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1525327102/twitter_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525327102/twitter_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10027342/1372181748",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    }
+  ],
+  "next_cursor": 0,
+  "next_cursor_str": "0",
+  "previous_cursor": -4611686018437415000,
+  "previous_cursor_str": "-4611686018437415246"
+}

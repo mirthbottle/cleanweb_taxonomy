@@ -1,0 +1,2712 @@
+{
+  "users":  [
+     {
+      "id": 2431239330,
+      "id_str": "2431239330",
+      "name": "Barnacle",
+      "screen_name": "Barnacle_Co",
+      "location": "US",
+      "profile_location": null,
+      "description": "10k gals of water leak in an ave home per year. So we're turning the everyday user into a water hero.",
+      "url": "http://t.co/su8S5yNEK6",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/su8S5yNEK6",
+              "expanded_url": "http://getawaterhero.weebly.com/",
+              "display_url": "getawaterhero.weebly.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 5,
+      "friends_count": 57,
+      "listed_count": 2,
+      "created_at": "Mon Apr 07 01:19:51 +0000 2014",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "en",
+      "status":  {
+        "created_at": "Fri Jun 13 02:23:09 +0000 2014",
+        "id": 477274946205265900,
+        "id_str": "477274946205265922",
+        "text": "Our parent co WATER HERO team Dan Sterling & Mark Henderson nailed a pitch to nab the @cleanwebbos DataJam $$$ prize! http://t.co/erlvaPnJnV",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 50,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "CleanWebBos",
+              "name": "Cleanweb Boston",
+              "id": 531535685,
+              "id_str": "531535685",
+              "indices":  [
+                90,
+                102
+              ]
+            }
+          ],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 477274944405921800,
+              "id_str": "477274944405921792",
+              "indices":  [
+                122,
+                144
+              ],
+              "media_url": "http://pbs.twimg.com/media/Bp-fCIGCYAAG9V8.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Bp-fCIGCYAAG9V8.jpg",
+              "url": "http://t.co/erlvaPnJnV",
+              "display_url": "pic.twitter.com/erlvaPnJnV",
+              "expanded_url": "http://twitter.com/Barnacle_Co/status/477274946205265922/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "small":  {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/452984523634900993/RVoZgYMh_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/452984523634900993/RVoZgYMh_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2431239330/1396835106",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 2322686588,
+      "id_str": "2322686588",
+      "name": "CloudGrid",
+      "screen_name": "CloudGridOrg",
+      "location": "",
+      "profile_location": null,
+      "description": "Energy Sub-metering and Analytics",
+      "url": "http://t.co/8VoEJdoj29",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/8VoEJdoj29",
+              "expanded_url": "http://www.cloudgrid.org",
+              "display_url": "cloudgrid.org",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 4155,
+      "friends_count": 1687,
+      "listed_count": 126,
+      "created_at": "Sat Feb 01 18:04:44 +0000 2014",
+      "favourites_count": 26,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 314,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Oct 07 16:46:50 +0000 2014",
+        "id": 519529294473596900,
+        "id_str": "519529294473596928",
+        "text": "RT @Mhallett88: . @dotforge have launched their new impact accelerator. Amazing opportunity for #startups! http://t.co/FaOLEoJA6u #socent #…",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Tue Oct 07 16:44:44 +0000 2014",
+          "id": 519528764703649800,
+          "id_str": "519528764703649792",
+          "text": ". @dotforge have launched their new impact accelerator. Amazing opportunity for #startups! http://t.co/FaOLEoJA6u #socent #funding",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 3,
+          "favorite_count": 7,
+          "entities":  {
+            "hashtags":  [
+               {
+                "text": "startups",
+                "indices":  [
+                  80,
+                  89
+                ]
+              },
+               {
+                "text": "socent",
+                "indices":  [
+                  114,
+                  121
+                ]
+              },
+               {
+                "text": "funding",
+                "indices":  [
+                  122,
+                  130
+                ]
+              }
+            ],
+            "symbols":  [],
+            "user_mentions":  [
+               {
+                "screen_name": "dotforge",
+                "name": "dotforge accelerator",
+                "id": 809101122,
+                "id_str": "809101122",
+                "indices":  [
+                  2,
+                  11
+                ]
+              }
+            ],
+            "urls":  [
+               {
+                "url": "http://t.co/FaOLEoJA6u",
+                "expanded_url": "http://www.f6s.com/dfimpact",
+                "display_url": "f6s.com/dfimpact",
+                "indices":  [
+                  91,
+                  113
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "startups",
+              "indices":  [
+                96,
+                105
+              ]
+            },
+             {
+              "text": "socent",
+              "indices":  [
+                130,
+                137
+              ]
+            },
+             {
+              "text": "funding",
+              "indices":  [
+                139,
+                140
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "Mhallett88",
+              "name": "Mike Hallett",
+              "id": 2370149412,
+              "id_str": "2370149412",
+              "indices":  [
+                3,
+                14
+              ]
+            },
+             {
+              "screen_name": "dotforge",
+              "name": "dotforge accelerator",
+              "id": 809101122,
+              "id_str": "809101122",
+              "indices":  [
+                18,
+                27
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/FaOLEoJA6u",
+              "expanded_url": "http://www.f6s.com/dfimpact",
+              "display_url": "f6s.com/dfimpact",
+              "indices":  [
+                107,
+                129
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/468481490783707136/GCgpI1gd_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/468481490783707136/GCgpI1gd_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2322686588/1397473834",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 2315954996,
+      "id_str": "2315954996",
+      "name": "Granular",
+      "screen_name": "GranularAg",
+      "location": "San Francisco, CA",
+      "profile_location": null,
+      "description": "The world’s most efficient farms run on Granular. -- Granular offers new, advanced technology to save you time and make your farm more productive.",
+      "url": "http://t.co/h0CAUQYsh0",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/h0CAUQYsh0",
+              "expanded_url": "http://www.granular.ag",
+              "display_url": "granular.ag",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 1363,
+      "friends_count": 1999,
+      "listed_count": 17,
+      "created_at": "Tue Jan 28 19:15:17 +0000 2014",
+      "favourites_count": 128,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 184,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 19:35:21 +0000 2015",
+        "id": 555085711959814140,
+        "id_str": "555085711959814144",
+        "text": "6 Trends Shaping Agricultural Technology in 2015 https://t.co/WZReuAapoj #agtech #farmtech #farming #technology #farming #sustainability",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "agtech",
+              "indices":  [
+                73,
+                80
+              ]
+            },
+             {
+              "text": "farmtech",
+              "indices":  [
+                81,
+                90
+              ]
+            },
+             {
+              "text": "farming",
+              "indices":  [
+                91,
+                99
+              ]
+            },
+             {
+              "text": "technology",
+              "indices":  [
+                100,
+                111
+              ]
+            },
+             {
+              "text": "farming",
+              "indices":  [
+                112,
+                120
+              ]
+            },
+             {
+              "text": "sustainability",
+              "indices":  [
+                121,
+                136
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/WZReuAapoj",
+              "expanded_url": "https://www.techwire.net/6-trends-shaping-agricultural-technology-2015/",
+              "display_url": "techwire.net/6-trends-shapi…",
+              "indices":  [
+                49,
+                72
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C9EBC3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436652737724289024/Jkn4kXAh.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436652737724289024/Jkn4kXAh.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/430834026425761792/jyIlEwOd_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/430834026425761792/jyIlEwOd_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2315954996/1406584235",
+      "profile_link_color": "B3001B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 2255326668,
+      "id_str": "2255326668",
+      "name": "Thurmia",
+      "screen_name": "thurmia",
+      "location": "San Francisco",
+      "profile_location": null,
+      "description": "Internet of Energy",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 0,
+      "listed_count": 2,
+      "created_at": "Fri Dec 20 17:55:46 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Jan 15 17:22:54 +0000 2014",
+        "id": 423505585456168960,
+        "id_str": "423505585456168960",
+        "text": "Thurmia is the Internet of Energy.",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "298BD6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167318084/AJJrR7k_.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167318084/AJJrR7k_.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/422764742587867137/jesFPX4s_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/422764742587867137/jesFPX4s_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255326668/1389629351",
+      "profile_link_color": "298BD6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0C4AF",
+      "profile_text_color": "9DBFA4",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 2188842302,
+      "id_str": "2188842302",
+      "name": "Zuli",
+      "screen_name": "ZuliHome",
+      "location": "San Francisco, CA",
+      "profile_location": null,
+      "description": "Create a smarter home that adjusts to where you are and what you like. http://t.co/A7L63m8QFI",
+      "url": "http://t.co/xt3fJZbsuz",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/xt3fJZbsuz",
+              "expanded_url": "http://zuli.io",
+              "display_url": "zuli.io",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  [
+             {
+              "url": "http://t.co/A7L63m8QFI",
+              "expanded_url": "http://www.zuli.io",
+              "display_url": "zuli.io",
+              "indices":  [
+                71,
+                93
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 667,
+      "friends_count": 338,
+      "listed_count": 57,
+      "created_at": "Mon Nov 11 18:39:33 +0000 2013",
+      "favourites_count": 852,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 832,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 21:11:49 +0000 2015",
+        "id": 555109987626647550,
+        "id_str": "555109987626647553",
+        "text": "Keep the light in your home natural. Use the Zuli app to dim any lamp plugged into a Zuli Smartplug. #lighting http://t.co/YcxO0yyVOS",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "lighting",
+              "indices":  [
+                101,
+                110
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 555109987173675000,
+              "id_str": "555109987173675008",
+              "indices":  [
+                111,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/B7Qll5zCMAAOP2w.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/B7Qll5zCMAAOP2w.jpg",
+              "url": "http://t.co/YcxO0yyVOS",
+              "display_url": "pic.twitter.com/YcxO0yyVOS",
+              "expanded_url": "http://twitter.com/ZuliHome/status/555109987626647553/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 600,
+                  "h": 399,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F2F2F2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/453318858405724160/zPbCtWhP_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/453318858405724160/zPbCtWhP_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188842302/1400526664",
+      "profile_link_color": "313131",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1967419752,
+      "id_str": "1967419752",
+      "name": "Vti Systems",
+      "screen_name": "vtisystems",
+      "location": "",
+      "profile_location": null,
+      "description": "Vti Systems is redefining the way manufacturing, retail and defence organizations use intelligence derived from situational awareness to optimize operations.",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 15,
+      "friends_count": 41,
+      "listed_count": 2,
+      "created_at": "Thu Oct 17 19:28:27 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Feb 12 17:26:37 +0000 2014",
+        "id": 433653379697365000,
+        "id_str": "433653379697364992",
+        "text": "@WhitVC @McRockCapital Lucky Fish! Thanks for sharing. Very cool.",
+        "truncated": false,
+        "in_reply_to_status_id": 433356055473438700,
+        "in_reply_to_status_id_str": "433356055473438723",
+        "in_reply_to_user_id": 2321340091,
+        "in_reply_to_user_id_str": "2321340091",
+        "in_reply_to_screen_name": "WhitVC",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "WhitVC",
+              "name": "Whitney Rockley",
+              "id": 2321340091,
+              "id_str": "2321340091",
+              "indices":  [
+                0,
+                7
+              ]
+            },
+             {
+              "screen_name": "McRockCapital",
+              "name": "McRock Capital",
+              "id": 473950865,
+              "id_str": "473950865",
+              "indices":  [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000610486775/cff55b68292cce1808ca04bd3563ef3e_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000610486775/cff55b68292cce1808ca04bd3563ef3e_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1962595704,
+      "id_str": "1962595704",
+      "name": "SparkFund",
+      "screen_name": "sparkfunder",
+      "location": "DC",
+      "profile_location": null,
+      "description": "SparkFund provides streamlined financing for small & med. scale energy efficiency projects, helping our partners close more deals and get efficiency done.",
+      "url": "http://t.co/isDb2W40t9",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/isDb2W40t9",
+              "expanded_url": "http://www.sparkfund.co",
+              "display_url": "sparkfund.co",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 2151,
+      "friends_count": 1721,
+      "listed_count": 35,
+      "created_at": "Tue Oct 15 13:12:01 +0000 2013",
+      "favourites_count": 109,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 894,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 19:06:28 +0000 2015",
+        "id": 555078443634008060,
+        "id_str": "555078443634008065",
+        "text": ""#Energy savings contracts prove popular with #government agencies, helping to ensure #savings, or else...\n\nhttp://t.co/l4YkhuAZzf",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Energy",
+              "indices":  [
+                1,
+                8
+              ]
+            },
+             {
+              "text": "government",
+              "indices":  [
+                46,
+                57
+              ]
+            },
+             {
+              "text": "savings",
+              "indices":  [
+                86,
+                94
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/l4YkhuAZzf",
+              "expanded_url": "http://hubs.ly/y0rh7Z0",
+              "display_url": "hubs.ly/y0rh7Z0",
+              "indices":  [
+                108,
+                130
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000600256550/5c695159d930623b1554390bb3bd839f_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000600256550/5c695159d930623b1554390bb3bd839f_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962595704/1416586111",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1944121076,
+      "id_str": "1944121076",
+      "name": "Gridco Systems",
+      "screen_name": "gridcosystems",
+      "location": "Woburn, MA",
+      "profile_location": null,
+      "description": "Leader in active grid infrastructure, enabling utilities to more effectively integrate renewable energy, increase efficiency and improve reliability. #agilegrid",
+      "url": "http://t.co/nl7Zj2phni",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/nl7Zj2phni",
+              "expanded_url": "http://www.gridcosystems.com",
+              "display_url": "gridcosystems.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 273,
+      "friends_count": 579,
+      "listed_count": 23,
+      "created_at": "Mon Oct 07 13:28:22 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": -14400,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 54,
+      "lang": "en",
+      "status":  {
+        "created_at": "Mon Jan 12 17:03:30 +0000 2015",
+        "id": 554685110512287740,
+        "id_str": "554685110512287746",
+        "text": "RT @PowerEditor: The Business Case for Decentralized Power Regulation at the Low-Voltage Secondary @gridcosystems http://t.co/gt889LTPgt",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Mon Jan 12 17:01:05 +0000 2015",
+          "id": 554684503973982200,
+          "id_str": "554684503973982209",
+          "text": "The Business Case for Decentralized Power Regulation at the Low-Voltage Secondary @gridcosystems http://t.co/gt889LTPgt",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 4,
+          "favorite_count": 0,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [
+               {
+                "screen_name": "gridcosystems",
+                "name": "Gridco Systems",
+                "id": 1944121076,
+                "id_str": "1944121076",
+                "indices":  [
+                  82,
+                  96
+                ]
+              }
+            ],
+            "urls":  [
+               {
+                "url": "http://t.co/gt889LTPgt",
+                "expanded_url": "http://buff.ly/1w9NYRj",
+                "display_url": "buff.ly/1w9NYRj",
+                "indices":  [
+                  97,
+                  119
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "PowerEditor",
+              "name": "Nikki Chandler",
+              "id": 325326818,
+              "id_str": "325326818",
+              "indices":  [
+                3,
+                15
+              ]
+            },
+             {
+              "screen_name": "gridcosystems",
+              "name": "Gridco Systems",
+              "id": 1944121076,
+              "id_str": "1944121076",
+              "indices":  [
+                99,
+                113
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/gt889LTPgt",
+              "expanded_url": "http://buff.ly/1w9NYRj",
+              "display_url": "buff.ly/1w9NYRj",
+              "indices":  [
+                114,
+                136
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/424960541082128385/2g4vydMF_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/424960541082128385/2g4vydMF_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944121076/1415742267",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1848225955,
+      "id_str": "1848225955",
+      "name": "Sprav Water",
+      "screen_name": "Sprav_Water",
+      "location": "Cleveland, OH",
+      "profile_location": null,
+      "description": "The smart water meter for your shower. Monitors usage and provides real time feedback to promote water conservation.",
+      "url": "http://t.co/6Y0npy6QPZ",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/6Y0npy6QPZ",
+              "expanded_url": "http://www.sprav.com/",
+              "display_url": "sprav.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 388,
+      "friends_count": 435,
+      "listed_count": 20,
+      "created_at": "Mon Sep 09 16:24:08 +0000 2013",
+      "favourites_count": 77,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 175,
+      "lang": "en",
+      "status":  {
+        "created_at": "Sat Apr 05 14:24:25 +0000 2014",
+        "id": 452451698812805100,
+        "id_str": "452451698812805120",
+        "text": "We’re a finalist in the Charter One Foundation Student Business Idea competition. Vote for our pitch video http://t.co/ef9hwkLsap",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/ef9hwkLsap",
+              "expanded_url": "http://j.mp/U4qjVg",
+              "display_url": "j.mp/U4qjVg",
+              "indices":  [
+                107,
+                129
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445709191122919424/wDJsBEX9.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445709191122919424/wDJsBEX9.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/445707444715401216/B3vmug1J_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/445707444715401216/B3vmug1J_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848225955/1395100030",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1736910980,
+      "id_str": "1736910980",
+      "name": "Grove Labs",
+      "screen_name": "GroveLabs",
+      "location": "Boston, MA",
+      "profile_location": null,
+      "description": "Technology to change where healthy food comes from. We're starting a food revolution one aquaponic system at a time!",
+      "url": "http://t.co/CoGMMMnBMu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/CoGMMMnBMu",
+              "expanded_url": "http://grovelabs.io",
+              "display_url": "grovelabs.io",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 1488,
+      "friends_count": 903,
+      "listed_count": 78,
+      "created_at": "Fri Sep 06 20:07:46 +0000 2013",
+      "favourites_count": 959,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 830,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 21:20:14 +0000 2015",
+        "id": 555112105733808100,
+        "id_str": "555112105733808128",
+        "text": "One of the many experiments running in the GURF (Grove Urban Research Farm) is testing beneficial bacteria growth http://t.co/m8z0s7706n",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 555112105607974900,
+              "id_str": "555112105607974914",
+              "indices":  [
+                114,
+                136
+              ],
+              "media_url": "http://pbs.twimg.com/media/B7QnhNlIUAI-mB4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/B7QnhNlIUAI-mB4.jpg",
+              "url": "http://t.co/m8z0s7706n",
+              "display_url": "pic.twitter.com/m8z0s7706n",
+              "expanded_url": "http://twitter.com/GroveLabs/status/555112105733808128/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 1024,
+                  "h": 1365,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/499200391867691008/tNVm1aNK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/499200391867691008/tNVm1aNK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736910980/1416333478",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1698640628,
+      "id_str": "1698640628",
+      "name": "Barnacle",
+      "screen_name": "GoBarnacle",
+      "location": "Mountain View, CA",
+      "profile_location": null,
+      "description": "Ship Outside the Box.",
+      "url": "http://t.co/lTLC6iltav",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/lTLC6iltav",
+              "expanded_url": "http://www.GoBarnacle.com",
+              "display_url": "GoBarnacle.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 142,
+      "friends_count": 314,
+      "listed_count": 9,
+      "created_at": "Sun Aug 25 09:04:17 +0000 2013",
+      "favourites_count": 41,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 307,
+      "lang": "en",
+      "status":  {
+        "created_at": "Thu Sep 25 21:48:11 +0000 2014",
+        "id": 515256473870282750,
+        "id_str": "515256473870282752",
+        "text": "RT @corideco: Had a great time meeting with @GoBarnacle last week. We’re going to keep up the momentum this week. http://t.co/cjlCYM5gpf",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Sun Sep 21 23:57:12 +0000 2014",
+          "id": 513839392142544900,
+          "id_str": "513839392142544896",
+          "text": "Had a great time meeting with @GoBarnacle last week. We’re going to keep up the momentum this week. http://t.co/cjlCYM5gpf",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1,
+          "favorite_count": 0,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [
+               {
+                "screen_name": "GoBarnacle",
+                "name": "Barnacle",
+                "id": 1698640628,
+                "id_str": "1698640628",
+                "indices":  [
+                  30,
+                  41
+                ]
+              }
+            ],
+            "urls":  [
+               {
+                "url": "http://t.co/cjlCYM5gpf",
+                "expanded_url": "http://www.gobarnacle.com/",
+                "display_url": "gobarnacle.com",
+                "indices":  [
+                  100,
+                  122
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "corideco",
+              "name": "Coride.co",
+              "id": 2296360794,
+              "id_str": "2296360794",
+              "indices":  [
+                3,
+                12
+              ]
+            },
+             {
+              "screen_name": "GoBarnacle",
+              "name": "Barnacle",
+              "id": 1698640628,
+              "id_str": "1698640628",
+              "indices":  [
+                44,
+                55
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/cjlCYM5gpf",
+              "expanded_url": "http://www.gobarnacle.com/",
+              "display_url": "gobarnacle.com",
+              "indices":  [
+                114,
+                136
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000792561388/ddd93dbe01be818c92deb969f26a5eb9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000792561388/ddd93dbe01be818c92deb969f26a5eb9_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698640628/1385460674",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1684275486,
+      "id_str": "1684275486",
+      "name": "Building Robotics",
+      "screen_name": "bldgrobotics",
+      "location": "Oakland, CA",
+      "profile_location": null,
+      "description": "People-centered intelligence for buildings.",
+      "url": "http://t.co/BNeqMPw3HQ",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BNeqMPw3HQ",
+              "expanded_url": "http://buildingrobotics.com",
+              "display_url": "buildingrobotics.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 491,
+      "friends_count": 209,
+      "listed_count": 20,
+      "created_at": "Mon Aug 19 22:19:15 +0000 2013",
+      "favourites_count": 117,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 200,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Jan 07 19:46:49 +0000 2015",
+        "id": 552914271714033660,
+        "id_str": "552914271714033664",
+        "text": "RT @BuildingContext: @bldgrobotics @Ken_Sinclair @ahrexpo Great article! Time 2 Embrace ML. I mention Comfy in"Romancing Rules" too: http:/…",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Tue Jan 06 20:37:45 +0000 2015",
+          "id": 552564700274126850,
+          "id_str": "552564700274126850",
+          "text": "@bldgrobotics @Ken_Sinclair @ahrexpo Great article! Time 2 Embrace ML. I mention Comfy in"Romancing Rules" too: http://t.co/lvApxgEVJg",
+          "truncated": false,
+          "in_reply_to_status_id": 552557952939601900,
+          "in_reply_to_status_id_str": "552557952939601920",
+          "in_reply_to_user_id": 1684275486,
+          "in_reply_to_user_id_str": "1684275486",
+          "in_reply_to_screen_name": "bldgrobotics",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [
+               {
+                "screen_name": "bldgrobotics",
+                "name": "Building Robotics",
+                "id": 1684275486,
+                "id_str": "1684275486",
+                "indices":  [
+                  0,
+                  13
+                ]
+              },
+               {
+                "screen_name": "Ken_Sinclair",
+                "name": "Ken Sinclair",
+                "id": 219005115,
+                "id_str": "219005115",
+                "indices":  [
+                  14,
+                  27
+                ]
+              },
+               {
+                "screen_name": "ahrexpo",
+                "name": "AHR Expo",
+                "id": 44649930,
+                "id_str": "44649930",
+                "indices":  [
+                  28,
+                  36
+                ]
+              }
+            ],
+            "urls":  [
+               {
+                "url": "http://t.co/lvApxgEVJg",
+                "expanded_url": "http://ow.ly/FLn7d",
+                "display_url": "ow.ly/FLn7d",
+                "indices":  [
+                  112,
+                  134
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "BuildingContext",
+              "name": "Therese Sullivan",
+              "id": 2474407578,
+              "id_str": "2474407578",
+              "indices":  [
+                3,
+                19
+              ]
+            },
+             {
+              "screen_name": "bldgrobotics",
+              "name": "Building Robotics",
+              "id": 1684275486,
+              "id_str": "1684275486",
+              "indices":  [
+                21,
+                34
+              ]
+            },
+             {
+              "screen_name": "Ken_Sinclair",
+              "name": "Ken Sinclair",
+              "id": 219005115,
+              "id_str": "219005115",
+              "indices":  [
+                35,
+                48
+              ]
+            },
+             {
+              "screen_name": "ahrexpo",
+              "name": "AHR Expo",
+              "id": 44649930,
+              "id_str": "44649930",
+              "indices":  [
+                49,
+                57
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/lvApxgEVJg",
+              "expanded_url": "http://ow.ly/FLn7d",
+              "display_url": "ow.ly/FLn7d",
+              "indices":  [
+                139,
+                140
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "6B6C6F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110969287/9d5b05ef8ff0b5a8392c7c63e1d3078a.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110969287/9d5b05ef8ff0b5a8392c7c63e1d3078a.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000705594075/820103aeb3ceb4d8c5335464b366650c_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000705594075/820103aeb3ceb4d8c5335464b366650c_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684275486/1402360855",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1671754956,
+      "id_str": "1671754956",
+      "name": "Urban.Us Network",
+      "screen_name": "UrbanUsCo",
+      "location": "The Internet",
+      "profile_location": null,
+      "description": "We invest in startups that use technology to make cities better (http://t.co/wj4FiOj7y7). Advisory network at Urban.Us. Events at http://t.co/kUgFKlckv2.",
+      "url": "http://t.co/qx9heNpOOx",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/qx9heNpOOx",
+              "expanded_url": "http://www.Urban.Us",
+              "display_url": "Urban.Us",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  [
+             {
+              "url": "http://t.co/wj4FiOj7y7",
+              "expanded_url": "http://angel.co/urban-us",
+              "display_url": "angel.co/urban-us",
+              "indices":  [
+                65,
+                87
+              ]
+            },
+             {
+              "url": "http://t.co/kUgFKlckv2",
+              "expanded_url": "http://SmartCityStartups.com",
+              "display_url": "SmartCityStartups.com",
+              "indices":  [
+                130,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1519,
+      "friends_count": 435,
+      "listed_count": 44,
+      "created_at": "Thu Aug 15 00:41:40 +0000 2013",
+      "favourites_count": 1687,
+      "utc_offset": -14400,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 674,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 14:39:07 +0000 2015",
+        "id": 555011161754984450,
+        "id_str": "555011161754984448",
+        "text": "First @Waze/ Now @Uber will share data with city planners. http://t.co/xGZb9eDO8d cc @transitmixapp",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "waze",
+              "name": "waze",
+              "id": 31171669,
+              "id_str": "31171669",
+              "indices":  [
+                6,
+                11
+              ]
+            },
+             {
+              "screen_name": "Uber",
+              "name": "Uber",
+              "id": 19103481,
+              "id_str": "19103481",
+              "indices":  [
+                17,
+                22
+              ]
+            },
+             {
+              "screen_name": "transitmixapp",
+              "name": "Transitmix",
+              "id": 2319494365,
+              "id_str": "2319494365",
+              "indices":  [
+                85,
+                99
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/xGZb9eDO8d",
+              "expanded_url": "http://bit.ly/1z5F1PZ",
+              "display_url": "bit.ly/1z5F1PZ",
+              "indices":  [
+                59,
+                81
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000122963131/50893b67aea39be35c31a6a7f2415c3e.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000122963131/50893b67aea39be35c31a6a7f2415c3e.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000784429576/e4d2855623b0dee6f701f2643ad40daa_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000784429576/e4d2855623b0dee6f701f2643ad40daa_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671754956/1385306748",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1651193588,
+      "id_str": "1651193588",
+      "name": "Callida Energy",
+      "screen_name": "CallidaEnergy",
+      "location": "New York, NY",
+      "profile_location": null,
+      "description": "Reinventing the way buildings work for you. Our learning software optimizes energy based on facility needs automatically to increase income and reduce carbon.",
+      "url": "http://t.co/UAYIfh7754",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/UAYIfh7754",
+              "expanded_url": "http://www.callidaenergy.com/",
+              "display_url": "callidaenergy.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 50,
+      "friends_count": 28,
+      "listed_count": 5,
+      "created_at": "Tue Aug 06 20:37:17 +0000 2013",
+      "favourites_count": 5,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 43,
+      "lang": "en",
+      "status":  {
+        "created_at": "Fri Dec 19 21:08:20 +0000 2014",
+        "id": 546049417259020300,
+        "id_str": "546049417259020288",
+        "text": "@DreamitVentures NYC 2013 alum @CallidaEnergy is hiring back-end dev with Python/Django/Java/MongoDB experience. Thanks for any ideas!",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 15668818,
+        "in_reply_to_user_id_str": "15668818",
+        "in_reply_to_screen_name": "DreamitVentures",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "DreamitVentures",
+              "name": " DreamIt Ventures",
+              "id": 15668818,
+              "id_str": "15668818",
+              "indices":  [
+                0,
+                16
+              ]
+            },
+             {
+              "screen_name": "CallidaEnergy",
+              "name": "Callida Energy",
+              "id": 1651193588,
+              "id_str": "1651193588",
+              "indices":  [
+                31,
+                45
+              ]
+            }
+          ],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/509763992923824128/0zNYa8Z0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/509763992923824128/0zNYa8Z0_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1583569135,
+      "id_str": "1583569135",
+      "name": "voltaiqio",
+      "screen_name": "Voltaiqio",
+      "location": "New York | San Francisco",
+      "profile_location": null,
+      "description": "A cloud-based informatics platform for better batteries.",
+      "url": "http://t.co/KkUXcOPXzC",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/KkUXcOPXzC",
+              "expanded_url": "http://voltaiq.io",
+              "display_url": "voltaiq.io",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 52,
+      "friends_count": 68,
+      "listed_count": 7,
+      "created_at": "Wed Jul 10 16:52:32 +0000 2013",
+      "favourites_count": 2,
+      "utc_offset": -14400,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 34,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Nov 05 18:42:32 +0000 2014",
+        "id": 530067657652187140,
+        "id_str": "530067657652187137",
+        "text": "Fun fact: Back then our product was called IVSpy. We like the name Voltaiq better -- what do you think?",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/510203448143257601/bJUfb3SV_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/510203448143257601/bJUfb3SV_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583569135/1375460089",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1564270200,
+      "id_str": "1564270200",
+      "name": "Driblet",
+      "screen_name": "Driblet_io",
+      "location": "Boston, MA",
+      "profile_location": null,
+      "description": "Smart Water Management",
+      "url": "http://t.co/k8pyrQyudw",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/k8pyrQyudw",
+              "expanded_url": "http://driblet.io",
+              "display_url": "driblet.io",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 389,
+      "friends_count": 107,
+      "listed_count": 18,
+      "created_at": "Tue Jul 02 22:56:00 +0000 2013",
+      "favourites_count": 826,
+      "utc_offset": -21600,
+      "time_zone": "Monterrey",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1223,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 19:38:07 +0000 2015",
+        "id": 555086408323694600,
+        "id_str": "555086408323694594",
+        "text": "RT @GetWaterSmart: "The end or the beginning of the drought?" Scary question http://t.co/JVSqNo1Cqr #cadrought",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Tue Jan 13 19:00:09 +0000 2015",
+          "id": 555076855947358200,
+          "id_str": "555076855947358208",
+          "text": ""The end or the beginning of the drought?" Scary question http://t.co/JVSqNo1Cqr #cadrought",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 2,
+          "favorite_count": 0,
+          "entities":  {
+            "hashtags":  [
+               {
+                "text": "cadrought",
+                "indices":  [
+                  81,
+                  91
+                ]
+              }
+            ],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+               {
+                "url": "http://t.co/JVSqNo1Cqr",
+                "expanded_url": "http://ow.ly/Hg6RF",
+                "display_url": "ow.ly/Hg6RF",
+                "indices":  [
+                  58,
+                  80
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "cadrought",
+              "indices":  [
+                100,
+                110
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "GetWaterSmart",
+              "name": "WaterSmart",
+              "id": 609308872,
+              "id_str": "609308872",
+              "indices":  [
+                3,
+                17
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/JVSqNo1Cqr",
+              "expanded_url": "http://ow.ly/Hg6RF",
+              "display_url": "ow.ly/Hg6RF",
+              "indices":  [
+                77,
+                99
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/477244468836311040/Jf0UdY90_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/477244468836311040/Jf0UdY90_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564270200/1402618909",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1525456566,
+      "id_str": "1525456566",
+      "name": "Climate Friendly UX",
+      "screen_name": "lowco2ux",
+      "location": "",
+      "profile_location": null,
+      "description": "The web has a huge carbon footprint. Let's use good design to reduce CO2 and help avert climate disaster. Personal account: @jc_ux",
+      "url": "http://t.co/goRX8xIe0S",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/goRX8xIe0S",
+              "expanded_url": "http://jcux.co.uk",
+              "display_url": "jcux.co.uk",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 14,
+      "friends_count": 153,
+      "listed_count": 3,
+      "created_at": "Mon Jun 17 18:01:41 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": -14400,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Jan 29 15:55:52 +0000 2014",
+        "id": 428557114022576100,
+        "id_str": "428557114022576131",
+        "text": "RT @Mightybytes: How to optimize #Drupal for sustainable web design — 15 tips: http://t.co/Nxz0R6ElXK #BCorp #susty",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status":  {
+          "created_at": "Mon Jan 27 16:05:00 +0000 2014",
+          "id": 427834636463386600,
+          "id_str": "427834636463386624",
+          "text": "How to optimize #Drupal for sustainable web design — 15 tips: http://t.co/Nxz0R6ElXK #BCorp #susty",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "entities":  {
+            "hashtags":  [
+               {
+                "text": "Drupal",
+                "indices":  [
+                  16,
+                  23
+                ]
+              },
+               {
+                "text": "BCorp",
+                "indices":  [
+                  85,
+                  91
+                ]
+              },
+               {
+                "text": "susty",
+                "indices":  [
+                  92,
+                  98
+                ]
+              }
+            ],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+               {
+                "url": "http://t.co/Nxz0R6ElXK",
+                "expanded_url": "http://bit.ly/susty4",
+                "display_url": "bit.ly/susty4",
+                "indices":  [
+                  62,
+                  84
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Drupal",
+              "indices":  [
+                33,
+                40
+              ]
+            },
+             {
+              "text": "BCorp",
+              "indices":  [
+                102,
+                108
+              ]
+            },
+             {
+              "text": "susty",
+              "indices":  [
+                109,
+                115
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "Mightybytes",
+              "name": "Mightybytes",
+              "id": 30462350,
+              "id_str": "30462350",
+              "indices":  [
+                3,
+                15
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "http://t.co/Nxz0R6ElXK",
+              "expanded_url": "http://bit.ly/susty4",
+              "display_url": "bit.ly/susty4",
+              "indices":  [
+                79,
+                101
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000007131186/77a401f9adacc2207eedbe7c55db4c24_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000007131186/77a401f9adacc2207eedbe7c55db4c24_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525456566/1371494369",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1498355293,
+      "id_str": "1498355293",
+      "name": "Webee®",
+      "screen_name": "WebeeLife",
+      "location": "Global",
+      "profile_location": null,
+      "description": "Smart Spaces | Control your home and electrical devices anywhere from your mobile or tablet.",
+      "url": "http://t.co/xqZp21Z6Lx",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/xqZp21Z6Lx",
+              "expanded_url": "http://www.webeelife.com",
+              "display_url": "webeelife.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 296,
+      "friends_count": 140,
+      "listed_count": 21,
+      "created_at": "Mon Jun 10 13:34:58 +0000 2013",
+      "favourites_count": 142,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 325,
+      "lang": "en",
+      "status":  {
+        "created_at": "Thu Jan 08 19:37:03 +0000 2015",
+        "id": 553274202355019800,
+        "id_str": "553274202355019776",
+        "text": "@atilo Conoce nuestra empresa Argentina en #CES2015 visitanos en Eureka Park #75501",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 7409742,
+        "in_reply_to_user_id_str": "7409742",
+        "in_reply_to_screen_name": "atilo",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "CES2015",
+              "indices":  [
+                43,
+                51
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "atilo",
+              "name": "Santiago do Rego",
+              "id": 7409742,
+              "id_str": "7409742",
+              "indices":  [
+                0,
+                6
+              ]
+            }
+          ],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000078452506/2321a81bd63313b46989e16c52d738ab.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000078452506/2321a81bd63313b46989e16c52d738ab.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/518076728468439041/0g-rSFQx_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/518076728468439041/0g-rSFQx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498355293/1409759439",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1484039317,
+      "id_str": "1484039317",
+      "name": "Birdi",
+      "screen_name": "birdi",
+      "location": "San Francisco",
+      "profile_location": null,
+      "description": "More than a smoke detector. Our Smart Air Monitor tracks air quality, whether it's a health danger like indoor air pollution or an emergency like fire & CO.",
+      "url": "http://t.co/NqJIoKSYBf",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/NqJIoKSYBf",
+              "expanded_url": "http://www.getbirdi.com",
+              "display_url": "getbirdi.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 1238,
+      "friends_count": 1997,
+      "listed_count": 64,
+      "created_at": "Wed Jun 05 04:11:51 +0000 2013",
+      "favourites_count": 405,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 720,
+      "lang": "en",
+      "status":  {
+        "created_at": "Wed Dec 31 12:26:00 +0000 2014",
+        "id": 550266619432149000,
+        "id_str": "550266619432148992",
+        "text": "Greetings from #China! We have some big news about manufacturing. http://t.co/OSKMXnsyNs",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "China",
+              "indices":  [
+                15,
+                21
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/OSKMXnsyNs",
+              "expanded_url": "http://blog.getbirdi.com/post/106611500247/kicking-off-manufacturing",
+              "display_url": "blog.getbirdi.com/post/106611500…",
+              "indices":  [
+                66,
+                88
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000145289187/zF8sYV9k.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000145289187/zF8sYV9k.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/458753836618764288/Mlmoaqiw_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/458753836618764288/Mlmoaqiw_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484039317/1398210600",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+     {
+      "id": 1470137869,
+      "id_str": "1470137869",
+      "name": "Robin",
+      "screen_name": "robinpowered",
+      "location": "Boston, MA",
+      "profile_location": null,
+      "description": "We're out to make work delightful, one room at a time.",
+      "url": "https://t.co/WLYUBVZCw0",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WLYUBVZCw0",
+              "expanded_url": "https://robinpowered.com",
+              "display_url": "robinpowered.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 512,
+      "friends_count": 408,
+      "listed_count": 25,
+      "created_at": "Thu May 30 16:20:50 +0000 2013",
+      "favourites_count": 47,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 352,
+      "lang": "en",
+      "status":  {
+        "created_at": "Tue Jan 13 19:32:06 +0000 2015",
+        "id": 555084892892315650,
+        "id_str": "555084892892315648",
+        "text": "1. Acquire an intern with free time.\n2. Hand them a clipboard and pen.\n3. ???\n4. Build more rooms\nhttp://t.co/4ACmMVHaKT\n#bettermeetings",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "bettermeetings",
+              "indices":  [
+                121,
+                136
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/4ACmMVHaKT",
+              "expanded_url": "http://blog.robinpowered.com/2015/01/how-interns-control-fortune-500-facility-management/",
+              "display_url": "blog.robinpowered.com/2015/01/how-in…",
+              "indices":  [
+                98,
+                120
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "32383F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163855658/-RLst7g8.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163855658/-RLst7g8.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/420342718934441985/6L2du4eZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/420342718934441985/6L2du4eZ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470137869/1419960167",
+      "profile_link_color": "E72737",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    }
+  ],
+  "next_cursor": 4611686019897526000,
+  "next_cursor_str": "4611686019897525773",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0"
+}

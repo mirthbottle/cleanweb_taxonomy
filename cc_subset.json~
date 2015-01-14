@@ -1,0 +1,31 @@
+  "users":  [
+     {
+      "id": 2431239330,
+      "id_str": "2431239330",
+      "name": "Barnacle",
+      "screen_name": "Barnacle_Co",
+      "location": "US",
+      "profile_location": null,
+      "description": "10k gals of water leak in an ave home per year. So we're turning the everyday user into a water hero.",
+      "url": "http://t.co/su8S5yNEK6",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/su8S5yNEK6",
+              "expanded_url": "http://getawaterhero.weebly.com/",
+              "display_url": "getawaterhero.weebly.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      }
+     }
+  ]
+}
